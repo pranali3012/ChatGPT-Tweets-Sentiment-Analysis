@@ -9,18 +9,28 @@ The dataset used in our analysis was obtained from Kaggle after reviewing multip
 This dataset contains tweets starting from November 2022 to 8th April, 2023 containing the keywords keywords #ChatGPT The dataset contains 12 columns which are:
 
 Date - Date of the tweet
-Tweet - Contents of the tweet
-Url - Link for the original tweet
-User - UserName of the person who tweeted.
-UserCreated - Account creation date
-UserVerified - Boolean field for verified user or not.
-UserFollowers - Follower count of user.
-UserFriends - Friends count of user.
-Retweet - Count of retweets
-Likes - Count of Likes
-Location - Location of User
-UserDescription - Description of user
 
+Tweet - Contents of the tweet
+
+Url - Link for the original tweet
+
+User - UserName of the person who tweeted.
+
+UserCreated - Account creation date
+
+UserVerified - Boolean field for verified user or not.
+
+UserFollowers - Follower count of user.
+
+UserFriends - Friends count of user.
+
+Retweet - Count of retweets
+
+Likes - Count of Likes
+
+Location - Location of User
+
+UserDescription - Description of user
 
 
 # Approach 
